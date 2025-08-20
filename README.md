@@ -29,6 +29,7 @@ Email Analysis: Autopsy can parse and analyze email files and formats.
 Malware Detection: It can integrate with malware scanning tools to identify malicious files. 
 
 2. Use Cases:
+
 Law Enforcement: Analyzing digital evidence in criminal cases such as fraud, theft, or cyberstalking. 
 
 Corporate Security: Investigating data breaches, insider threats, or employee misconduct. 
