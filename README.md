@@ -41,6 +41,7 @@ Education: Teaching digital forensics concepts and methodologies.
 Data Recovery: Recovering data from damaged or corrupted storage devices. 
 
 3. Key Features:
+
 Graphical User Interface:
 Autopsy provides a user-friendly interface for conducting forensic investigations. 
 
