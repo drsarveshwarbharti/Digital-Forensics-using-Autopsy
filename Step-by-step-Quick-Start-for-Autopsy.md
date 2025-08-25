@@ -3,8 +3,10 @@
 
 ### 1) Install Autopsy
 •	Windows: Download the current Windows installer from the official site and run it. As of now, the site lists Autopsy 4.x with a one-click 64-bit installer. Autopsy+1
+
 •	Linux / macOS: Autopsy 4 runs, but you install via ZIP + extra dependencies (Sleuth Kit, Java, etc.). Follow the platform notes; on macOS/Linux you typically build or install Sleuth Kit separately. Autopsyslo-sleuth.github.io
 Recommended resources / prerequisites
+
 •	System memory: 16 GB RAM recommended; you can raise Autopsy’s JVM memory later via Tools → Options → Application → Maximum JVM Memory. Sleuth Kit
  
 ### 2) Launch & create a case
